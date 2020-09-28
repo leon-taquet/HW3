@@ -14,13 +14,27 @@ nav {
     padding: 1% 2% 1% 2%;
 }
 
+
 .nav{
     text-decoration: none;
     color: #FFFFFF;
-    padding: 2% 10% 2% 10%;
+    padding: 2% 5% 2% 5%;
 }
 
 .nav:hover{
+    color: #FFD700;
+}
+
+li{
+    padding: 1vw 1vw 1vw 1vw;
+}
+
+.email{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.email:hover{
     color: #FFD700;
 }
 
@@ -45,7 +59,7 @@ body{
 header{
     background-color: #3E8EDE;
     color: #FFFFFF;
-    font-size: 80px;
+    font-size: 8vw;
     font-family: palatino;
     padding: 20px 40px 20px 40px;
 }
