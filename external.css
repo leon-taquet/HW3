@@ -63,3 +63,7 @@ header{
     font-family: palatino;
     padding: 20px 40px 20px 40px;
 }
+
+li{
+    list-style-type: none;
+}
